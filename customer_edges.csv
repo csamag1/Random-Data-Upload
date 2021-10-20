@@ -1,0 +1,61 @@
+﻿Customer ID,TransactionNo,TransDescr,Amount
+A,A1,Apple Store,186.09
+A,A10,AutoZone,17.50
+A,A2,Apple Store,398.15
+A,A3,eBay.com,35.68
+A,A4,Chick-fil-A,458.57
+A,A5,Home Depot,29.76
+A,A6,Sears,361.15
+A,A7,McDonald's,30.32
+A,A8,Chick-fil-A,8.70
+A,A9,United Airlines,40.62
+B,B1,McDonald's,446.32
+B,B10,Olive Garden,38.88
+B,B2,Jewel,29.58
+B,B3,American Airlines,34.31
+B,B4,Southwest Airlines,237.90
+B,B5,Speedway,45.04
+B,B6,Amazon.com,351.38
+B,B7,Starbucks,26.93
+B,B8,Speedway,164.00
+B,B9,United Airlines,19.59
+C,C1,Wendy's,235.55
+C,C10,Walmart,9.07
+C,C2,Jewel,168.83
+C,C3,Kroger,15.77
+C,C4,Target,410.91
+C,C5,Wendy's,25.79
+C,C6,Menards,1.50
+C,C7,Speedway,41.82
+C,C8,RiteAid,458.47
+C,C9,Ulta,29.67
+D,D1,Southwest Airlines,179.33
+D,D10,eBay.com,12.53
+D,D2,RiteAid,457.42
+D,D3,Menards,34.96
+D,D4,Southwest Airlines,181.99
+D,D5,Trader Joes,41.21
+D,D6,RiteAid,301.39
+D,D7,Best Buy,45.38
+D,D8,Walmart,74.69
+D,D9,Best Buy,3.36
+E,E1,Sears,166.33
+E,E10,Chick-fil-A,25.42
+E,E2,Southwest Airlines,92.28
+E,E3,Sears,42.75
+E,E4,Southwest Airlines,207.80
+E,E5,CVS,16.26
+E,E6,RiteAid,94.89
+E,E7,Trader Joes,17.36
+E,E8,Chick-fil-A,82.05
+E,E9,Amazon.com,2.41
+F,F1,BP,412.68
+F,F10,Southwest Airlines,13.85
+F,F2,Olive Garden,174.62
+F,F3,United Airlines,8.22
+F,F4,Jewel,298.24
+F,F5,Trader Joes,6.31
+F,F6,Gap,67.31
+F,F7,Apple Store,28.32
+F,F8,Best Buy,66.67
+F,F9,Apple Store,18.76

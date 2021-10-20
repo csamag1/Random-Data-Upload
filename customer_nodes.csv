@@ -1,0 +1,37 @@
+﻿Node ID,Type
+A,Customer
+B,Customer
+C,Customer
+D,Customer
+E,Customer
+F,Customer
+Target,Store
+Walmart,Store
+Jewel,Store
+Trader Joes,Store
+Walgreens,Store
+CVS,Store
+RiteAid,Store
+Home Depot,Store
+Menards,Store
+Sears,Store
+Southwest Airlines,Store
+United Airlines,Store
+American Airlines,Store
+Amazon.com,Store
+eBay.com,Store
+Kroger,Store
+Apple Store,Store
+Starbucks,Store
+McDonald's,Store
+Best Buy,Store
+Gap,Store
+Chick-fil-A,Store
+Bed Bath & Beyond,Store
+AutoZone,Store
+Wendy's,Store
+Olive Garden,Store
+Staples,Store
+Ulta,Store
+BP,Store
+Speedway,Store
